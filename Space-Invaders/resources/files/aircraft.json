@@ -1,0 +1,12 @@
+{
+  "aircraft-raptor": {
+    "speed": 200,
+	"x": 350,
+	"y": 900,
+	"width": 50,
+	"height": 44,
+	"velX": 1,
+	"velY": 0,
+	"delay": 0.35
+  }
+}

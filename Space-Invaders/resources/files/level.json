@@ -1,0 +1,922 @@
+{
+"level-one":
+	[
+		{
+		"creeps":
+			[
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 50,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 100,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 150,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 200,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 250,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 300,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 350,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "purple",
+					"x": 100,
+					"y": 100
+				},
+				{
+					"level": "one",
+					"type": "purple",
+					"x": 150,
+					"y": 100
+				},
+				{
+					"level": "one",
+					"type": "purple",
+					"x": 200,
+					"y": 100
+				},
+				{
+					"level": "one",
+					"type": "purple",
+					"x": 250,
+					"y": 100
+				},
+				{
+					"level": "one",
+					"type": "purple",
+					"x": 300,
+					"y": 100
+				},
+				{
+					"level": "one",
+					"type": "red",
+					"x": 150,
+					"y": 50
+				},
+				{
+					"level": "one",
+					"type": "red",
+					"x": 200,
+					"y": 50
+				},
+				{
+					"level": "one",
+					"type": "red",
+					"x": 250,
+					"y": 50
+				},
+				
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 450,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 500,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 550,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 600,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 650,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "blue",
+					"x": 700,
+					"y": 150
+				},
+				{
+					"level": "one",
+					"type": "purple",
+					"x": 500,
+					"y": 100
+				},
+				{
+					"level": "one",
+					"type": "purple",
+					"x": 550,
+					"y": 100
+				},
+				{
+					"level": "one",
+					"type": "purple",
+					"x": 600,
+					"y": 100
+				},
+				{
+					"level": "one",
+					"type": "purple",
+					"x": 650,
+					"y": 100
+				},
+				{
+					"level": "one",
+					"type": "red",
+					"x": 550,
+					"y": 50
+				},
+				{
+					"level": "one",
+					"type": "red",
+					"x": 600,
+					"y": 50
+				}
+			]
+		}
+	],
+	
+"level-two":
+	[
+		{
+		"creeps":
+			[
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 50,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 100,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 150,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 200,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 250,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 300,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 350,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 400,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 450,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 500,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 550,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 600,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 650,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 700,
+					"y": 50
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 150,
+					"y": 100
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 100,
+					"y": 100
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 50,
+					"y": 150
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 200,
+					"y": 150
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 100,
+					"y": 200
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 150,
+					"y": 200
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 600,
+					"y": 100
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 650,
+					"y": 100
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 600,
+					"y": 200
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 650,
+					"y": 200
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 550,
+					"y": 150
+				},
+				{
+					"level": "two",
+					"type": "purple",
+					"x": 700,
+					"y": 150
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 250,
+					"y": 100
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 350,
+					"y": 100
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 400,
+					"y": 100
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 500,
+					"y": 100
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 300,
+					"y": 150
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 450,
+					"y": 150
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 500,
+					"y": 200
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 400,
+					"y": 200
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 350,
+					"y": 200
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 250,
+					"y": 200
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 50,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 100,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 150,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 200,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 250,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 300,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 350,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 400,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 450,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 500,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 550,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 600,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 650,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "blue",
+					"x": 700,
+					"y": 250
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 550,
+					"y": 300
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 550,
+					"y": 350
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 200,
+					"y": 300
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 200,
+					"y": 350
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 350,
+					"y": 350
+				},
+				{
+					"level": "two",
+					"type": "red",
+					"x": 400,
+					"y": 350
+				}
+			]
+		}
+	],
+"level-three":
+	[
+		{
+		"creeps":
+			[
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 50,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 100,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 150,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 200,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 250,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 300,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 350,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 400,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 450,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 500,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 550,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 600,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 650,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 700,
+					"y": 50
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 50,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 100,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 150,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 200,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 250,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 300,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 350,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 400,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 450,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 500,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 550,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 600,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 650,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "blue",
+					"x": 700,
+					"y": 350
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 150,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 50,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 100,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 100,
+					"y": 150
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 100,
+					"y": 200
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 100,
+					"y": 250
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 100,
+					"y": 300
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 550,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 500,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 450,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 450,
+					"y": 150
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 550,
+					"y": 200
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 500,
+					"y": 200
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 450,
+					"y": 200
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 450,
+					"y": 250
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 450,
+					"y": 300
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 500,
+					"y": 300
+				},
+				{
+					"level": "three",
+					"type": "purple",
+					"x": 550,
+					"y": 300
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 250,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 300,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 350,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 300,
+					"y": 150
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 300,
+					"y": 200
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 300,
+					"y": 250
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 300,
+					"y": 300
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 250,
+					"y": 300
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 350,
+					"y": 300
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 750,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 700,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 650,
+					"y": 100
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 650,
+					"y": 200
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 700,
+					"y": 200
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 650,
+					"y": 150
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 750,
+					"y": 200
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 750,
+					"y": 250
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 650,
+					"y": 300
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 700,
+					"y": 300
+				},
+				{
+					"level": "three",
+					"type": "red",
+					"x": 750,
+					"y": 300
+				}
+			]
+		}
+	]
+}

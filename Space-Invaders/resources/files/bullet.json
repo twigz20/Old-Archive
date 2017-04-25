@@ -1,0 +1,22 @@
+{
+  "player-bullet": {
+	"image": "resources/images/bullet.png",
+	"name": "player-bullet",
+	"damage": 200,
+    "speed": 500,
+	"width": 3,
+	"height": 14,
+	"velX": 0,
+	"velY": -1
+  },
+  "enemy-bullet": {
+	"image": "resources/images/enemy bullet.png",
+	"name": "enemy-bullet",
+	"damage": 200,
+    "speed": 400,
+	"width": 3,
+	"height": 14,
+	"velX": 0,
+	"velY": 1
+  }
+}

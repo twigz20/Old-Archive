@@ -1,0 +1,47 @@
+{
+  "creep-1-blue": {
+    "health": 200,
+    "speed": 40,
+	"gold": 20
+  },
+  "creep-1-purple": {
+    "health": 200,
+    "speed": 40,
+	"gold": 30
+  },
+  "creep-1-red": {
+    "health": 200,
+    "speed": 40,
+	"gold": 40
+  },
+  "creep-2-blue": {
+    "health": 200,
+    "speed": 45,
+	"gold": 20
+  },
+  "creep-2-purple": {
+    "health": 200,
+    "speed": 45,
+	"gold": 30
+  },
+  "creep-2-red": {
+    "health": 200,
+    "speed": 45,
+	"gold": 40
+  },
+  "creep-3-blue": {
+    "health": 200,
+    "speed": 55,
+	"gold": 20
+  },
+  "creep-3-purple": {
+    "health": 200,
+    "speed": 55,
+	"gold": 30
+  },
+  "creep-3-red": {
+    "health": 200,
+    "speed": 55,
+	"gold": 40
+  }
+}
